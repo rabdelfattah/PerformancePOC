@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Passengers>
+  <Passenger>
+    <Name>TestName1</Name>
+    <Address>123 Test Address</Address>
+    <City>Test City</City>
+    <State>Test State</State>
+    <ZipCode>12</ZipCode>
+    <CardType>Visa</CardType>
+    <CreditCardNo>12345678901</CreditCardNo>
+    <Month>July</Month>
+    <Year>2018</Year>
+    <NameOnCard>Name1</NameOnCard>
+  </Passenger>
+
+  <Passenger>
+    <Name>TestName2</Name>
+    <Address>456 Test Address</Address>
+    <City>Test City</City>
+    <State>Test State</State>
+    <ZipCode>34</ZipCode>
+    <CardType>Diner's Club</CardType>
+    <CreditCardNo>09876543210</CreditCardNo>
+    <Month>April</Month>
+    <Year>2017</Year>
+    <NameOnCard>Name2</NameOnCard>
+  </Passenger>
+</Passengers>

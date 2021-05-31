@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flights>
+  <Flight>
+    <Departure>Paris</Departure>
+    <Destination>Rome</Destination>
+  </Flight>
+  
+  <Flight>
+    <Departure>Philadelphia</Departure>
+    <Destination>Berlin</Destination>
+  </Flight>
+
+  <Flight>
+    <Departure>Portland</Departure>
+    <Destination>Buenos Aires</Destination>
+  </Flight>
+
+  <Flight>
+    <Departure>Mexico City</Departure>
+    <Destination>Cairo</Destination>
+  </Flight>
+
+  <Flight>
+    <Departure>Boston</Departure>
+    <Destination>New York</Destination>
+  </Flight>
+  
+  <Flight>
+    <Departure>San Diego</Departure>
+    <Destination>London</Destination>
+  </Flight>
+  
+  <Flight>
+    <Departure>São Paolo</Departure>
+    <Destination>Dublin</Destination>
+  </Flight>
+</Flights>
